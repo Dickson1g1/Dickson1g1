@@ -1,6 +1,6 @@
 ## Hi, I'm Dickson. 😎
 
-🧑🏾‍💻Information Technology student at Guttman College.<br/>
+🧑🏾‍💻Cybersecurity student at Citytech.<br/>
 🤵🏾‍♂️Here is my [linkedin](https://www.linkedin.com/in/dickson-boakye-7aa14732a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2FtztoaDtTael5MQmDF8Reg%3D%3D)<br/>
 
 
