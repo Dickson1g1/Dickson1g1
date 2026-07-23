@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=900&height=44&lines=%F0%9F%A7%91%F0%9F%8F%BE%E2%80%8D%F0%9F%92%BBCybersecurity%20student%20at%20Citytech;%F0%9F%A4%B5%F0%9F%8F%BE%E2%80%8D%E2%99%82%EF%B8%8FHere%20is%20my%20LinkedIn%20%5B%20https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdickson-boakye-7aa14732a%2F%5D" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=640&height=44&lines=Welcome%20to%20my%20Github;%F0%9F%A7%91%F0%9F%8F%BE%E2%80%8D%F0%9F%92%BBCybersecurity%20student%20at%20Citytech" alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
