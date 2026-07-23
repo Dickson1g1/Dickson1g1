@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=640&height=44&lines=Welcome%20to%20my%20Github;%F0%9F%A7%91%F0%9F%8F%BE%E2%80%8D%F0%9F%92%BBCybersecurity%20student%20at%20Citytech" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=900&height=44&lines=Welcome%20to%20my%20Github;%F0%9F%A7%91%F0%9F%8F%BE%E2%80%8D%F0%9F%92%BBCybersecurity%20student%20at%20New%20York%20City%20College%20of%20Technology" alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
@@ -14,6 +14,7 @@ Cybersecurity student and practitioner with hands-on SOC experience in security 
 
 🔭 &nbsp;I'm currently working on **Building more projects**  
 🌱 &nbsp;I'm currently learning **Cloud security**  
+🤔 &nbsp;I'm looking for help with **Jobs**  
 😄 &nbsp;Pronouns: **He/Him**
 
 ### 🛠️ Tech Stack
